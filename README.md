@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smuliman Samuli Tyyskä
-- 👀 I’m interested in Information Techology, Business, Health Care and Rehabilitation.
-- 🌱 I’m currently learning IT and Business at LAUREA UAS
+- 👀 I’m interested in Software Development, Information Techology, Business and Health Care
+- 🌱 I’m currently studying IT and Business at LAUREA UAS
 - 💞️ I’m looking to collaborate on working opportunities, colleagues and interesting people
 - 📫 How to reach me: linkedin.com/in/samulityyska , samuli.tyyska@live.com , +35840 749 1534
 
